@@ -1,6 +1,8 @@
+import Pagination from "components/Pagination";
+
 function Listing(){
     return (
-        <h1>Deu bom pag2</h1>
+        <Pagination/>
     );
 }
 
